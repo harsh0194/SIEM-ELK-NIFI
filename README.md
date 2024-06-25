@@ -1,4 +1,4 @@
-# SIEM--ELK--NIF
+# SIEM--ELK--NIFI
 
 1. Install ElasticSearch (and Kibana), and install Nifi on a Kali VM
 
